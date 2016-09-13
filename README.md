@@ -18,8 +18,16 @@ This is a listing of various links and resources I've gathered while diving into
 #### <a name="deployments"></a>Deployments
 - **Building Minimal Docker Containers for Go Applications**  
   https://blog.codeship.com/building-minimal-docker-containers-for-go-applications/  
-  Good walkthrough of deploying a go application via docker  
+  Deploying a go app using a minimal docker container  
 
 - **How to deploy a Go Web Application with docker**  
   https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker  
   Deploying a go webapp using semaphore ci and docker
+
+- **Docker image packaging for golang**  
+  https://github.com/docker-library/golang  
+  Docker images for golang projects
+
+- **Alpine Linux Docker Image**  
+  http://gliderlabs.viewdocs.io/docker-alpine/
+  Very small linux distro to keep docker images as small as possible
