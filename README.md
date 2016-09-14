@@ -4,6 +4,7 @@ This is a listing of various links and resources I've gathered while diving into
 ## Table of Contents
 
 - [Getting Started](#getting-started)
+- [Web Apps](#web-apps)
 - [Deployments](#deployments)
 
 #### <a name="getting-started"></a>Getting Started
@@ -14,6 +15,11 @@ This is a listing of various links and resources I've gathered while diving into
 - **Go by Example**  
   https://gobyexample.com/  
   Step-by-step site with small examples of each area of the language
+
+#### <a name="web-apps"></a>Web Applications
+- **Structure for a golang web app**  
+  https://larry-price.com/blog/2015/06/25/architecture-for-a-golang-web-app
+  Article discussing one way to sturcture web applications in go
 
 #### <a name="deployments"></a>Deployments
 - **Building Minimal Docker Containers for Go Applications**  
