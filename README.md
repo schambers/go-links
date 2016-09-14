@@ -4,6 +4,7 @@ This is a listing of various links and resources I've gathered while diving into
 ## Table of Contents
 
 - [Getting Started](#getting-started)
+- [Pointers](#pointers)
 - [Web Apps](#web-apps)
 - [Deployments](#deployments)
 
@@ -15,6 +16,11 @@ This is a listing of various links and resources I've gathered while diving into
 - **Go by Example**  
   https://gobyexample.com/  
   Step-by-step site with small examples of each area of the language
+
+#### <a name="pointers"></a>Pointers
+- **Golang Pointers**  
+  https://www.youtube.com/watch?v=lx4m1bxykE4  
+  Explains the concept of pointers, memory addresses and dereferencing. Provides some idioms for making the concepts stick
 
 #### <a name="web-apps"></a>Web Apps
 - **Structure for a golang web app**  
